@@ -13,6 +13,8 @@ sites:
     url: https://piczip.weiensong.de5.net/
   - name: scelcov
     url: https://scelcov.bingzgoj.cc.cd
+  - name: chrome_explorer
+    url: https://chrome-explorer.bingzgoj.cc.cd/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -34,6 +36,8 @@ status-website:
       href: https://piczip.weiensong.de5.net/
     - title: scelcov
       href: https://scelcov.bingzgoj.cc.cd
+    - title: chrome_explorer
+      href: https://chrome-explorer.bingzgoj.cc.cd/
     - title: status
       href: /
     - title: github
